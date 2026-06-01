@@ -35,70 +35,76 @@ Aug 2018 – Jul 2022
 
 ---
 
-## 🛠 Technical Expertise
 
-### Programming Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
-
----
-
-### Frameworks & Libraries
-
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-black?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-black?style=for-the-badge&logo=scikitlearn)
-
----
-
-### Databases & Storage
-
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
-![Cassandra](https://img.shields.io/badge/Cassandra-black?style=for-the-badge&logo=apachecassandra)
-![Neo4j](https://img.shields.io/badge/Neo4j-black?style=for-the-badge&logo=neo4j)
-![Pinecone](https://img.shields.io/badge/Pinecone-black?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-black?style=for-the-badge)
-
----
-
-### Cloud, DevOps & Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)
-![Nginx](https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+## 🚀 Core Technical Expertise
 
 ### Backend Engineering
-Node.js • Express.js • FastAPI • Python • REST APIs • GraphQL • WebSockets
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+
+---
 
 ### Distributed Systems
-Kafka • Redis • BullMQ • Celery • Event-Driven Architecture • Microservices
+
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EA4C89?style=for-the-badge)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event_Driven-7C3AED?style=for-the-badge)
+
+---
 
 ### Cloud & DevOps
-AWS (EC2, S3, Lambda, SNS, SQS, RDS) • Docker • Kubernetes • Nginx • CI/CD
 
-### Databases
-MongoDB • PostgreSQL • MySQL • Redis • Cassandra • Elasticsearch
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF4088?style=for-the-badge)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+---
+
+### Databases & Search
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+---
 
 ### AI & LLM Engineering
-LangChain • LangGraph • CrewAI • RAG • Vector Databases • Multi-Agent Systems • Prompt Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FFB000?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-0EA5E9?style=for-the-badge)
+![Multi Agent](https://img.shields.io/badge/Multi_Agent_Systems-8B5CF6?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EC4899?style=for-the-badge)
+
+---
 
 ### Performance & Scalability
-System Design • Database Optimization • Load Testing • High-Concurrency Systems
+
+![System Design](https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge)
+![Performance Tuning](https://img.shields.io/badge/Performance_Tuning-22C55E?style=for-the-badge)
+![Load Testing](https://img.shields.io/badge/Load_Testing-F97316?style=for-the-badge)
+![High Concurrency](https://img.shields.io/badge/High_Concurrency-DC2626?style=for-the-badge)
+![Scalability](https://img.shields.io/badge/Scalable_Systems-7C3AED?style=for-the-badge)
+
 
 AWS Services:
 - EC2
