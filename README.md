@@ -92,6 +92,7 @@ Aug 2018 – Jul 2022
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FFB000?style=for-the-badge)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-0EA5E9?style=for-the-badge)
+![MCP Server](https://img.shields.io/badge/Vector_Databases-0EA5E9?style=for-the-badge)
 ![Multi Agent](https://img.shields.io/badge/Multi_Agent_Systems-8B5CF6?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EC4899?style=for-the-badge)
 
