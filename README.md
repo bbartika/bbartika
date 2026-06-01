@@ -82,6 +82,24 @@ Aug 2018 – Jul 2022
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
+### Backend Engineering
+Node.js • Express.js • FastAPI • Python • REST APIs • GraphQL • WebSockets
+
+### Distributed Systems
+Kafka • Redis • BullMQ • Celery • Event-Driven Architecture • Microservices
+
+### Cloud & DevOps
+AWS (EC2, S3, Lambda, SNS, SQS, RDS) • Docker • Kubernetes • Nginx • CI/CD
+
+### Databases
+MongoDB • PostgreSQL • MySQL • Redis • Cassandra • Elasticsearch
+
+### AI & LLM Engineering
+LangChain • LangGraph • CrewAI • RAG • Vector Databases • Multi-Agent Systems • Prompt Engineering
+
+### Performance & Scalability
+System Design • Database Optimization • Load Testing • High-Concurrency Systems
+
 AWS Services:
 - EC2
 - Lambda
