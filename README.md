@@ -8,7 +8,7 @@ I build scalable backend systems, AI-powered applications, and high-performance 
 
 ## 👩‍💻 About Me
 
-Backend Developer with 2.4+ years of experience in building scalable backend systems and AI-driven applications utilizing Node.js and Python.
+Backend Developer with 1.4+ years of experience in building scalable backend systems and AI-driven applications utilizing Node.js and Python.
 
 Experienced in:
 
